@@ -19,3 +19,12 @@ in ```logback.xml```
 
 check logback version and make sure ```logbat-0.1-SNAPSHOT.jar``` is in the classpath.
 
+
+ANSI art thanks to [ansify](http://github.com/enricruiz/ansify).
+
+Example
+-------
+
+![bang](http://i.imgur.com/zxAWYib.png)
+
+

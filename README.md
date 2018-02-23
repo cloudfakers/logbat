@@ -1,6 +1,15 @@
 # Logback extensions
 
-To use these extensions you just need to add the `logbat-0.1-SNAPSHOT.jar` to in the classpath. 
+To use these extensions you just need to add the `logbat-0.1-SNAPSHOT.jar` to in the classpath.
+If you use Maven, you can just add it as a dependency to your `pom.xml`:
+
+```xml
+<dependency>
+    <groupId>com.github.cloudfackers</groupId>
+    <artifactId>logbat</artifactId>
+    <version>0.1-SNAPSHOT</version>
+</dependency>
+```
 
 ## Batman
 
